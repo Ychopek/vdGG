@@ -1,0 +1,8 @@
+print("vvedite stroku")
+strk = input()
+strk = strk.replace("a","")
+strk = strk.replace("e","")
+strk = strk.replace("i","")
+strk = strk.replace("o","")
+strk = strk.replace("u","")
+print(strk)
