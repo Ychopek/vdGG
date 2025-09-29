@@ -1,0 +1,5 @@
+print("vvedite FIO")
+surname = input()
+name = input()
+secname = input()
+print(surname, name[0], secname[0])
